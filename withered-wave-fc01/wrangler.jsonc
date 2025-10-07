@@ -1,0 +1,9 @@
+{
+  "name": "evatwallet-api",
+  "main": "src/index.js",
+  "compatibility_date": "2025-10-07",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": {
+    "enabled": true
+  }
+}
